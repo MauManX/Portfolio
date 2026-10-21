@@ -164,7 +164,7 @@ a:hover {
 
 #title {
     width: 60vw;
-    aspect-ratio: auto;
+    aspect-ratio: auto 1/0.554;
     background-image: url("./img/title0002.gif");
     background-size: cover;
     margin: 0 auto;
